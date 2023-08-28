@@ -1,0 +1,12 @@
+10.80.2.64 - - [27/Aug/2023:19:15:49 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+10.80.2.64 - - [27/Aug/2023:19:15:50 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+10.80.2.64 - - [27/Aug/2023:19:16:05 +0000] "GET /jspservelt-app-friends-calculator HTTP/1.1" 302 - http-bio-8080-exec-4 0
+10.80.2.64 - - [27/Aug/2023:19:16:06 +0000] "GET /jspservelt-app-friends-calculator/ HTTP/1.1" 200 1271 http-bio-8080-exec-5 311
+10.80.2.64 - - [27/Aug/2023:19:16:06 +0000] "GET /jspservelt-app-friends-calculator/assets/style.css HTTP/1.1" 200 869 http-bio-8080-exec-6 2
+10.80.2.64 - - [27/Aug/2023:19:16:06 +0000] "GET /jspservelt-app-friends-calculator/assets/friends.svg HTTP/1.1" 304 - http-bio-8080-exec-7 2
+10.80.2.64 - - [27/Aug/2023:19:16:07 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-9 0
+10.80.2.64 - - [27/Aug/2023:19:16:16 +0000] "POST /jspservelt-app-friends-calculator/friends HTTP/1.1" 200 1272 http-bio-8080-exec-8 4
+10.80.2.64 - - [27/Aug/2023:19:23:53 +0000] "POST /jspservelt-app-friends-calculator/friends HTTP/1.1" 200 1272 http-bio-8080-exec-2 1
+10.80.2.64 - - [27/Aug/2023:19:23:54 +0000] "GET /jspservelt-app-friends-calculator/assets/style.css HTTP/1.1" 200 869 http-bio-8080-exec-2 0
+10.80.2.64 - - [27/Aug/2023:19:23:54 +0000] "GET /jspservelt-app-friends-calculator/assets/friends.svg HTTP/1.1" 304 - http-bio-8080-exec-2 1
+10.80.2.64 - - [27/Aug/2023:19:23:54 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
